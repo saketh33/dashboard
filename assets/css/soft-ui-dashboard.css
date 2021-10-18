@@ -9436,6 +9436,79 @@ i {
   font-weight: 700;
   color: #67748e;
 }
+
+.profile_bar{
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
+  padding-top: 2rem !important;
+
+}
+.profile_home_access {
+  color: #ffffff;
+  opacity: 0.8 !important;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.profile_home_access:hover {
+  color: rgb(255, 0, 157);
+}
+
+.dashboard_access{
+  color:#f700b9;
+  padding-left: 0.3rem;
+  padding-bottom: 0.3rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.dashboard_access:hover{
+  color:#ffffff;
+  padding-left: 0.3rem;
+  padding-bottom: 0.3rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.profile_settings {
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  padding-right: 1.6rem !important;
+  padding-left: 1rem !important;
+}
+
+.profile_notification {
+color: #ffffff;
+padding: 0.5rem 1rem;
+font-size: 1.2rem;
+}
+.profile_settings:hover{
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  padding-right: 1.6rem !important;
+  padding-left: 1rem !important;
+}
+
+.profile_notification:hover {
+color: #ffffff;
+padding: 0.5rem 1rem;
+font-size: 1.2rem;
+}
+.profile_name_profile{
+  color:white;
+  align-items: center !important;
+  display: flex !important;
+}
+.profile_name_profile:hover{
+  color:white;
+  align-items: center !important;
+  display: flex !important;
+}
+
+.profile_ic{
+  margin-right: 0.50rem !important;
+}
+
 .px-4 {
   padding-right: 1.5rem !important;
   padding-left: 1.5rem !important;
@@ -10147,6 +10220,7 @@ i {
 .home_access:hover {
   color: rgb(255, 0, 157);
 }
+
 
 .opacity-6 {
   opacity: 0.6 !important;
